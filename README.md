@@ -2,6 +2,8 @@
 
 <p align="center">Final DAM project in unity: </p>
 
+<p align="center">To play the game download the TearsOfSand - Game Folder and double click the executable "Tears Of Sand.exe": </p>
+
 <p align="center">1) MAIN MENU: </p>
 
 <p align="center">
