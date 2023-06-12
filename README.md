@@ -20,22 +20,22 @@
   <img src="https://github.com/Lxvine/TearsOfSand/blob/master/Screenshots/3.png" style=" width:700px">
 </p>
 
-<p align="center">4) HITTING A SLIME (2): </p>
-
-<p align="center">
-  <img src="https://github.com/Lxvine/TearsOfSand/blob/master/Screenshots/5.png" style=" width:700px">
-</p>
-
-<p align="center">5) SWORD ATTACK ANIMATION: </p>
+<p align="center">4) SWORD ATTACK ANIMATION: </p>
 
 <p align="center">
   <img src="https://github.com/Lxvine/TearsOfSand/blob/master/Screenshots/4.png" style=" width:700px">
 </p>
 
-<p align="center">6) HITTING: </p>
+<p align="center">5) HITTING: </p>
 
 <p align="center">
   <img src="https://github.com/Lxvine/TearsOfSand/blob/master/Screenshots/6.png" style=" width:700px">
+</p>
+
+<p align="center">6) HITTING A SLIME (2) AND GETTING HIT: </p>
+
+<p align="center">
+  <img src="https://github.com/Lxvine/TearsOfSand/blob/master/Screenshots/5.png" style=" width:700px">
 </p>
 
 <p align="center">7) PAUSE MENU: </p>
