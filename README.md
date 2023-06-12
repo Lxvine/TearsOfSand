@@ -14,7 +14,7 @@
   <img src="https://github.com/Lxvine/TearsOfSand/blob/master/Screenshots/2.png" style=" width:700px">
 </p>
 
-<p align="center">3) HITTING A SLIME: </p>
+<p align="center">3) DEFEATING A SLIME: </p>
 
 <p align="center">
   <img src="https://github.com/Lxvine/TearsOfSand/blob/master/Screenshots/3.png" style=" width:700px">
@@ -26,13 +26,13 @@
   <img src="https://github.com/Lxvine/TearsOfSand/blob/master/Screenshots/5.png" style=" width:700px">
 </p>
 
-<p align="center">5) : </p>
+<p align="center">5) SWORD ATTACK ANIMATION: </p>
 
 <p align="center">
   <img src="https://github.com/Lxvine/TearsOfSand/blob/master/Screenshots/4.png" style=" width:700px">
 </p>
 
-<p align="center">6) : </p>
+<p align="center">6) HITTING: </p>
 
 <p align="center">
   <img src="https://github.com/Lxvine/TearsOfSand/blob/master/Screenshots/6.png" style=" width:700px">
